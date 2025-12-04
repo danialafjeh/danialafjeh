@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/82755772-a484-4bc7-9a66-80c7bf010b1c" />
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
