@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mr_danial82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_danial82" height="40" width="40" /></a>
+<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
+</a>
 <a href="https://t.me/Danialafjeh" target="blank"><img align="center" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
 </a>
 </p>
