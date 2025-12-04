@@ -68,7 +68,7 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/22ef2a56-c24c-433e-a5c1-2c05f418642b" />
   </a> 
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
-    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ff3b1dc7-ec3d-4d7b-a37c-0a808921d531" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ff3b1dc7-ec3d-4d7b-a37c-0a808921d531" />
   </a> 
   
 </p>
