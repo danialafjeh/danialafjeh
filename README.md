@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Django , Python and web development.**
 
-- 📫 You can easily reach me on Telegram **@Danialafjeh**
-
 - 📄 Know about my experiences (coming soon...)
 
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
