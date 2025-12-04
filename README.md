@@ -60,5 +60,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5e3dfc95-d9da-4ca5-b933-b4154961388c" />
+  </a> 
+  </a> 
 </p>
