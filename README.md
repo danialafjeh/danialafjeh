@@ -52,7 +52,7 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/82755772-a484-4bc7-9a66-80c7bf010b1c" />
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/389aea2b-9361-4dc2-9dbf-abaa5896352e" />
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
