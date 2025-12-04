@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+- 📝 I regularly write articles on (coming soon...)
 
 - 💬 Ask me about **Django , Python and web development.**
 
 - 📫 You can easily reach me on Telegram **@Danialafjeh**
 
-- 📄 Know about my experiences [coming soon...](coming soon...)
+- 📄 Know about my experiences (coming soon...)
 
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
 
