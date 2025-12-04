@@ -55,7 +55,7 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/389aea2b-9361-4dc2-9dbf-abaa5896352e" />
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/903ccd88-3bd9-47df-add3-66955fb27429" />
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
