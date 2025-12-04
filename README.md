@@ -22,7 +22,8 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a87a20a9-77de-4574-8e9c-8897eeeca6d9" />
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8fe8feff-38fc-4db7-9bf6-c467a6cfe3e6" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5ac2c3b2-7604-4ae9-9781-18fa109187bf" />
+
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
