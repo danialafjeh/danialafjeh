@@ -31,7 +31,7 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/709fc840-c1b4-4054-b468-54ceb735c584" />
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f64117d7-3dc6-4e11-bacf-9ec729348f24" />
   </a>  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
