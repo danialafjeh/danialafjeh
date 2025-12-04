@@ -25,7 +25,7 @@
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/353a6f3d-aba4-4348-90b1-a2827a3e98e1" />
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
