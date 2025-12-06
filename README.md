@@ -3,7 +3,8 @@
 
 - 👨‍💻 Have a better view of my projects https://danialafjehprojects.my.canva.site/
   
-- 📃 I write articles on https://dev.to/danial Afjeh
+- 📃 I write articles on 
+https://dev.to/danialafjeh
 
 - 💬 Ask me about **Django , Python and web development.**
 
