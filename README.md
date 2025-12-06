@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
+<h1 align="center">Hi 👋, I'm Danial Afjeh</h1>
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
 - 👨‍💻 Have a better view of my projects https://danialafjehprojects.my.canva.site/
