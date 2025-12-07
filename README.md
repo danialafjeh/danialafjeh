@@ -30,6 +30,9 @@ https://dev.to/danialafjeh
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/353a6f3d-aba4-4348-90b1-a2827a3e98e1" />
   </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" alt="social" src="https://github.com/user-attachments/assets/d689efae-f0af-41f8-b823-029a07d597be" />
+  </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
   </a> 
