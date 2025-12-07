@@ -31,7 +31,7 @@ https://dev.to/danialafjeh
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/353a6f3d-aba4-4348-90b1-a2827a3e98e1" />
   </a> 
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" alt="Screenshot (668)" src="https://github.com/user-attachments/assets/e78725b3-c17f-4833-b47e-5d2146929f36" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/72b86de8-7b0f-47df-a334-4357b4b097d5" />
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
