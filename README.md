@@ -18,6 +18,8 @@ https://dev.to/danialafjeh
 </a>
 <a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
 </a>
+<a href="https://dev.to/danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7afa3c99-e37b-4076-a529-242c7f55be03" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
