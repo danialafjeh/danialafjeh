@@ -6,7 +6,7 @@
 - 📝 I write articles on 
 https://dev.to/danialafjeh
 
-- 💬 Ask me about **Django , Python and web development.**
+- 💬 Ask me about **Django , Python and Web development.**
 
 - 📄 Know about my experiences (coming soon...)
 
@@ -53,25 +53,13 @@ https://dev.to/danialafjeh
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ceaae42e-0720-4879-90e8-72ed0d35185b" />
-  </a>  
-   <a href="https://inshot.com/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/deeaf2d5-3641-4458-9ffd-451a20d4c0d8" />
-  </a>  
+  </a>    
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/82755772-a484-4bc7-9a66-80c7bf010b1c" />
-  </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/389aea2b-9361-4dc2-9dbf-abaa5896352e" />
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/903ccd88-3bd9-47df-add3-66955fb27429" />
-  </a> 
+  </a>  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/22ef2a56-c24c-433e-a5c1-2c05f418642b" />
   </a> 
