@@ -3,7 +3,7 @@
 
 - 👨‍💻 Have a better view of my projects (coming soon...)
   
-- 💬 Ask me about **Django , Python, API and Web development.**
+- 💬 Ask and talk to me about **Django , Python, Building API's, Web development and more...**
 
 - 📄 Know about my experiences (coming soon...)
 
