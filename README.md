@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danial Afjeh</h1>
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
-- 👨‍💻 Have a better view of my projects https://danialafjehprojects.my.canva.site/
+- 👨‍💻 Have a better view of my projects (coming soon...)
   
-- 📝 I write articles on 
-https://dev.to/danialafjeh
-
-- 💬 Ask me about **Django , Python and Web development.**
+- 💬 Ask me about **Django , Python, API and Web development.**
 
 - 📄 Know about my experiences (coming soon...)
 
@@ -17,8 +14,6 @@ https://dev.to/danialafjeh
 <a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
 </a>
 <a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
-</a>
-<a href="https://dev.to/danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7afa3c99-e37b-4076-a529-242c7f55be03" />
 </a>
 </p>
 
