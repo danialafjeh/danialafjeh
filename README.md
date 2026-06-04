@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
-- 📝 Have a better info about me and my projects on my [blog](https://danial-afjeh.hashnode.dev) 
+- 📝 Know me more and have a better look at my projects on my [blog](https://danial-afjeh.hashnode.dev) 
 
 - 👨‍💻 Have a better view of my projects (coming soon...)
   
