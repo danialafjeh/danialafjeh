@@ -2,7 +2,8 @@
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
 - 📝 Have a better info about me and my projects on my blog
-[danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
+[danial-afjeh.hashnode.dev]
+(https://danial-afjeh.hashnode.dev) 
 
 - 👨‍💻 Have a better view of my projects (coming soon...)
   
