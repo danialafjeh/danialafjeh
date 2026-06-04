@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
 <h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
 
-- 📝 I write technical articles on my blog [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
+- 📝 Have a better info about me and my projects on my blog [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
 
 - 👨‍💻 Have a better view of my projects (coming soon...)
   
@@ -44,12 +44,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/709fc840-c1b4-4054-b468-54ceb735c584" />
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f64117d7-3dc6-4e11-bacf-9ec729348f24" />
-  </a>  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/db930539-df02-4d58-bbbd-b7677a1f62fb" />
   </a> 
