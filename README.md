@@ -17,6 +17,9 @@
 </a>
 <a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
 </a>
+<a href="https://hashnode.com/@Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d145d85a-afc7-4bc6-a836-17f8ebf04fb2" />
+" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
