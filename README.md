@@ -40,7 +40,7 @@
   <img width="40" height="40" alt="image" src="https://cloud.frappe.io/files/swagger_300x300.webp" />
   </a>
   <a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" alt="image" src="https://plugins.jetbrains.com/files/14394/1059342/icon/default.png" />
+  <img width="40" height="40" alt="image" src="https://avatars3.githubusercontent.com/u/16343502?v=3&s=200" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cb125289-d2a5-4656-9d8d-63910bcb089c" />
