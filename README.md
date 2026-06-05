@@ -5,8 +5,6 @@
  
 - 💬 Ask and talk to me about **Django , Python, Building API's, Web development and more...**
 
-- 📄 Know about my experiences (coming soon...)
-
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
 
 <h3 align="left">Connect with me:</h3>
