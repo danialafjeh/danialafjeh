@@ -45,11 +45,11 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
+  <a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> 
+    <img width="40" height="40" alt="image" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" />
+  </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/82755772-a484-4bc7-9a66-80c7bf010b1c" />
-  </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" />
   </a>  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/22ef2a56-c24c-433e-a5c1-2c05f418642b" />
