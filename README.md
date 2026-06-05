@@ -25,7 +25,7 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a87a20a9-77de-4574-8e9c-8897eeeca6d9" />
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000" />
+  <img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" />
   </a> 
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/72b86de8-7b0f-47df-a334-4357b4b097d5" />
