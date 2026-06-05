@@ -15,6 +15,9 @@
 </a>
 <a href="https://hashnode.com/@Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d145d85a-afc7-4bc6-a836-17f8ebf04fb2" />
 </a>
+<a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" />
+</a>" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
