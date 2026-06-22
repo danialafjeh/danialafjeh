@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="100" height="100 " alt="image" src="https://github.com/user-attachments/assets/4500b265-7c28-43ac-8c67-c114ac99de3d" />
+<a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="40" height="40 " alt="image" src="https://github.com/user-attachments/assets/4500b265-7c28-43ac-8c67-c114ac99de3d" />
 </a>
 <a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" />
 </a>
