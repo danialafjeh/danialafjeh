@@ -15,9 +15,9 @@
 </a>
 <a href="https://hashnode.com/@Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d145d85a-afc7-4bc6-a836-17f8ebf04fb2" />
 </a>
-<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
+ <a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
 </a>
-<a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
+<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
 </a>
 </p>
 
