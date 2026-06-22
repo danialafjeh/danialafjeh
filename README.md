@@ -9,13 +9,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
+<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f597117f-f387-4e30-acca-258cd82d4401" />
 </a>
-<a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
+<a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" />
 </a>
 <a href="https://hashnode.com/@Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d145d85a-afc7-4bc6-a836-17f8ebf04fb2" />
 </a>
-<a href="mailto:dev.danialafjeh@gmail.com" target="blank"><img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" />
+<a href="https://instagram.com/mr_danial82" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da11d5dc-2b74-479e-a5e5-b12f9d214a19" />
+</a>
+<a href="https://t.me/Danialafjeh" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/751d2c29-82ee-4331-b9aa-f5ea8e0959db" />
 </a>
 </p>
 
