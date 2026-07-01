@@ -65,9 +65,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
-  </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/db930539-df02-4d58-bbbd-b7677a1f62fb" />
   </a> 
