@@ -3,7 +3,7 @@
 
 - 🌐 Read my articles and know me & my experiences better on my [blog](https://danial-afjeh.hashnode.dev) 
  
-- 💬 Ask and talk to me about **Django , Python, Building API's, Web development and more...**
+- 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and more...**
 
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
 
