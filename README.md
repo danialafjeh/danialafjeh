@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
-<h3 align="center">A programmer and web developer in the programming world, mostly focused on the backend side.</h3>
+<h3 align="center">A programmer and backend web developer.</h3>
 
 - 🌐 Read my articles and know me & my experiences better on my [blog](https://danial-afjeh.hashnode.dev) 
  
