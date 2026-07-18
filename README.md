@@ -8,7 +8,7 @@
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
 
 <p align="center">
-  <img src="https://github.com/danialafjeh/danialafjeh/blob/main/Github-Intro.gif?raw=true" width="90%" alt="Intro">
+  <img src="https://github.com/danialafjeh/danialafjeh/blob/main/Github-Intro.gif?raw=true" width="80%" alt="Intro">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
