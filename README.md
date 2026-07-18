@@ -5,6 +5,8 @@
  
 - 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and more...**
 
+- 💻 Always love to learn & experience more.
+
 - ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
 
 <p align="center">
