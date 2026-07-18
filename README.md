@@ -4,7 +4,7 @@
 - 🌐 Checkout my blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
-- 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and more...**
+- 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and ...**
 
 - 💻 Always love to learn & experience more.
 
