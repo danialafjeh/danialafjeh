@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Afjeh</h1>
 <h3 align="center">A PROGRAMMER AND BACKEND WEB DEVELOPER.</h3>
 
-- 🌐 Checkout my blog:<br>
+- 🌐 Checkout my blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
 - 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and more...**
