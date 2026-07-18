@@ -4,11 +4,11 @@
 - 🌐 Checkout my blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
-- 💬 Ask and talk to me about **Web development, Building APIs, Django, Python and ...**
+- 💬 Ask and talk to me about Web development, Building APIs, Django, Python and ...
 
 - 💻 Always love to learn & experience more.
 
-- ⚡ Fun fact **Looking at a monitor full of programming stuff always makes me super excited :)**
+- ⚡ Fun fact Looking at a monitor full of programming stuff always makes me super excited :)
 
 <p align="center">
   <img src="https://github.com/danialafjeh/danialafjeh/blob/main/Github-Intro.gif?raw=true" width="80%" alt="Intro">
