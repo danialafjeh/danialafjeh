@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/danialafjeh/danialafjeh/blob/main/Github-Intro.gif?raw=true" width="80%" alt="Intro"></h1>
-<h3 align="center">A PROGRAMMER AND BACKEND WEB DEVELOPER.</h3>
+<h3 align="center">PROGRAMMER & BACKEND WEB DEVELOPER.</h3>
 
 - 🌐 Checkout my blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
