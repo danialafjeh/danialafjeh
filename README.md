@@ -10,9 +10,6 @@
 
 - ⚡ Fun fact Looking at a monitor full of programming stuff always makes me super excited :)
 
-<p align="center">
-  <img src="https://github.com/danialafjeh/danialafjeh/blob/main/Github-Intro.gif?raw=true" width="80%" alt="Intro">
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-afjeh " target="blank"><img width="40" height="40 " alt="image" src="https://github.com/user-attachments/assets/4500b265-7c28-43ac-8c67-c114ac99de3d" />
