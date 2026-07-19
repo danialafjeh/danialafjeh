@@ -4,11 +4,9 @@
 - 🌐 Checkout my blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
-- 💬 Ask and talk to me about Web development, Building APIs, Django, Python and ...
+- 🎓 Bachelor of Science in Computer Engineering (B.Sc.) - Software Engineering.
 
 - 💻 Always love to learn & experience more.
-
-- ⚡ Fun fact Looking at a monitor full of programming stuff always makes me super excited :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
