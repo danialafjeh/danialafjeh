@@ -50,10 +50,7 @@
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> 
-    <img width="40" height="40" alt="image" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" />
-  </a> 
+  </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f21f9e7d-afa0-47dc-945d-6572d0e5931e" />
   </a> 
