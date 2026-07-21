@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/danialafjeh/danialafjeh/main/Github-Intro03.gif" width="70%" alt="Intro"></h1>
 <h3 align="center">PROGRAMMER & BACKEND WEB DEVELOPER.</h3>
 
-- 🌐 Checkout my blog :<br>
+- 🌐 Checkout my blog:<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
 - 🎓 Bachelor of Science in Computer Engineering (B.Sc.) - Software Engineering.
 
 - ⚡ Always love to learn & experience more.
 
-- 💻 Run my projects on your computer locally --> [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
+- 💻 Run my projects on your computer locally: [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
