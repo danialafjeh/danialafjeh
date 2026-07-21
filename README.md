@@ -8,6 +8,8 @@
 
 - 💻 Always love to learn & experience more.
 
+- Run my projects on your computer locally --> [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-afjeh " target="blank"><img width="40" height="40 " alt="image" src="https://github.com/user-attachments/assets/4500b265-7c28-43ac-8c67-c114ac99de3d" />
