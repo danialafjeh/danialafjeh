@@ -31,7 +31,7 @@
   <img width="40" height="40" alt="image" src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" />
   </a> 
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" alt="image" src="https://github.com/danialafjeh/danialafjeh/blob/main/REST.png?raw=true" />
+  <img width="40" height="40" alt="image" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
