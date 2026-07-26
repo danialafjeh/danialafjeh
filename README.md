@@ -33,6 +33,14 @@
   <img alt="image" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
   </a>
 </p>
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  </a>  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
