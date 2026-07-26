@@ -23,6 +23,9 @@
 </a>
 </p>
 <p align="left">
+<a href="https://t.me/Danialafjeh" target="blank">
+  <img alt="image" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <a href="https://instagram.com/mr_danial82" target="blank">
   <img alt="image" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
