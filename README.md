@@ -48,6 +48,12 @@
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/visualstudiocode-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
