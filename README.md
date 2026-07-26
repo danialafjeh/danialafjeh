@@ -18,6 +18,9 @@
 <a href="mailto:dev.danialafjeh@gmail.com" target="blank"
   ><img alt="image" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://hashnode.com/@Danialafjeh" target="blank">
+  <img alt="image" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
