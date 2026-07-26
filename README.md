@@ -12,7 +12,7 @@
 
 <h3 align="left">Test:</h3>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<img width="40" height="40 " alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+<img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
