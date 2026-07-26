@@ -44,6 +44,11 @@
     <img alt="image" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </a> 
 </p>
+<p align="left">
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/Bootstrap-%23E34F26.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
