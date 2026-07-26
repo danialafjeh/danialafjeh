@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="https://img.shields.io/badge/visualstudiocode-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img alt="image" src="(https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a> 
 </p>
 
