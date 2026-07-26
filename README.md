@@ -46,7 +46,7 @@
 </p>
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="https://img.shields.io/badge/Bootstrap-%23E34F26.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="image" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a> 
 </p>
 
