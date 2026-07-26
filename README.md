@@ -27,7 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>  
   <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" alt="image" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+  <img alt="image" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
   </a>
 </p>
 
