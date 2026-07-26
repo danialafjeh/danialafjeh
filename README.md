@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/POSTMAN-orange"  /> 
+    <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=5849BE"  /> 
   </a>  
   <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
   <img alt="image" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
