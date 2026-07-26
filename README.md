@@ -22,6 +22,14 @@
     <img alt="image" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   </a>
 </p>
+<p align="left">
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>  
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" alt="image" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
