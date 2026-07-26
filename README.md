@@ -24,7 +24,7 @@
 </p>
 <p align="left">
 <a href="https://instagram.com/mr_danial82" target="blank">
-  <img  alt="image" src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img alt="image" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 </p>
 <h3 align="left">Connect with me:</h3>
