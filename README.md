@@ -29,6 +29,9 @@
   <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
   <img alt="image" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
   </a>
+  <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer"> 
+  <img alt="image" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
