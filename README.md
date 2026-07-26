@@ -10,8 +10,8 @@
 
 - 💻 Run my projects on your computer locally. [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
-<h3 align="left">Test:</h3>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<h3 align="left">:</h3>
+<img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 <img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 
 <h3 align="left">Connect with me:</h3>
