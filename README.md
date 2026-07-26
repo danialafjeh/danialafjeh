@@ -40,6 +40,9 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
   </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
