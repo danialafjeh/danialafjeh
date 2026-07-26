@@ -18,6 +18,9 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   </a> 
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
