@@ -10,6 +10,8 @@
 
 - 💻 Run my projects on your computer locally. [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
