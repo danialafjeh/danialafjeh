@@ -15,6 +15,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
