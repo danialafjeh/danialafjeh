@@ -12,7 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/daniel-afjeh " target="blank">
+  <img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <img  alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
