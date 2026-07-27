@@ -10,7 +10,7 @@
 
 - 💻 Run my projects on your computer locally. [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Skils:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
