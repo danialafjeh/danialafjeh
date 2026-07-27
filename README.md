@@ -10,8 +10,6 @@
 
 - 💻 Run my projects on your computer locally. [Guide](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
-<hr>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -62,8 +60,6 @@
     <img alt="image" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a> 
 </p>
-
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
