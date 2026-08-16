@@ -59,6 +59,9 @@
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a> 
+   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="" />
+  </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
