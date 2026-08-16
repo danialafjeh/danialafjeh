@@ -43,19 +43,19 @@
   
 </p>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  </a> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a> 
-</p>
-<p align="left">
    <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+  </a> 
+</p>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a> 
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a> 
 </p>
 <p align="left">
