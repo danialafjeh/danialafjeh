@@ -40,14 +40,17 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
   </a>  
+  
+</p>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </a> 
-</p>
-<p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a> 
+</p>
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a> 
