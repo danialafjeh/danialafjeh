@@ -51,16 +51,16 @@
   </a> 
 </p>
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a> 
-</p>
-<p align="left">
    <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+  </a> 
+</p>
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img alt="image" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a> 
 </p>
 <p align="left">
