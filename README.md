@@ -60,7 +60,7 @@
     <img alt="image" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a> 
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
-    <img alt="image" src="" />
+    <img alt="image" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </a> 
 </p>
 
