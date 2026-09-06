@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="" /> 
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)" /> 
   </a>  
 </p>
 <p align="left">
