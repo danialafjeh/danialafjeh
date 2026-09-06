@@ -39,8 +39,10 @@
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="" /> 
   </a>  
-  
 </p>
 <p align="left">
    <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer"> 
