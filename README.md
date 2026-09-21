@@ -8,7 +8,8 @@
 
 - ⚡ Always love to learn & experience more.
 
-- 💻 +10 portfolio projects built : Projects are numbered in development order. Higher numbers represent newer projects with increasing complexity and more advanced backend tools/concepts.
+- 💻 +10 portfolio projects built :
+  Projects are numbered in development order. Higher numbers represent newer projects with increasing complexity and more advanced backend tools/concepts.
 
 <h3 align="left">Skills and Tools :</h3>
 <p align="left">
