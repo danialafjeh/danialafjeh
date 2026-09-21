@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/danialafjeh/danialafjeh/main/Github-Intro03.gif" width="70%" alt="Intro"></h1>
 <h3 align="center">Backend Web Developer</h3>
 
-- 🌐 Checkout my articles & portfolio on my personal blog:<br>
+- 🌐 Checkout my articles & portfolio on my personal blog :<br>
   [danial-afjeh.hashnode.dev](https://danial-afjeh.hashnode.dev) 
  
 - 🎓 Bachelor of Science in Computer Engineering (B.Sc.) - Software Engineering.
@@ -10,7 +10,7 @@
 
 - 💻 +10 portfolio projects built : Projects are numbered in development order. Higher numbers represent newer projects with increasing complexity and more advanced backend tools/concepts.
 
-<h3 align="left">Skills and Tools:</h3>
+<h3 align="left">Skills and Tools :</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img alt="image" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -74,7 +74,7 @@
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-afjeh " target="blank">
   <img alt="image" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
