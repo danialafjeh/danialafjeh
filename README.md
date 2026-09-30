@@ -48,6 +48,9 @@
   </a>  
 </p>
 <p align="left">
+  <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank" rel="noreferrer"> 
+    <img src="" /> 
+  </a> 
    <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   </a> 
