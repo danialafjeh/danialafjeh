@@ -8,11 +8,8 @@
 
 - ⚡ Always love to learn & experience more.
 
-- 💻 +10 portfolio projects built :<br>
-  Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity
-  throughout my learning journey.
-
-
+- 💻 +10 portfolio projects built.
+  
 <h3 align="left">Skills and Tools :</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
